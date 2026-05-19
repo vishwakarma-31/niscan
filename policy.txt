@@ -1,0 +1,96 @@
+Vehicle Insurance Quotation
+Customer Details
+Field
+Details
+Customer Name
+Rohan Kapoor
+Address
+Villa No. 18, Maple Heights Avenue, Green Valley Road, Richmond Town, Bengaluru, Karnataka – 560025
+Mobile Number
++91 9812345678
+Email ID
+rohan.kapoor91@gmail.com
+Policy Details
+Field
+Details
+Insurance Provider
+SecureDrive General Insurance
+Policy Type
+Comprehensive Private Car Package Policy
+Policy Duration
+1 Year
+Policy Start Date
+15/06/2026
+Policy End Date
+14/06/2027
+Vehicle Information
+Field
+Details
+Registration Number
+KA 09 ZR 5824
+Vehicle Make & Model
+SKODA KUSHAQ STYLE 1.5 TSI DSG
+Fuel Type
+Petrol
+Manufacturing Year
+2025
+Registration Date
+04/10/2025
+Engine Number
+SKD4587TSI
+Chassis Number
+KSHQ5824DSG25
+Vehicle Type
+SUV
+Seating Capacity
+5
+
+IDV Details
+Description
+Amount
+Vehicle IDV
+■ 18,40,000
+Accessories Value
+■ 25,000
+Total IDV
+■ 18,65,000
+Add-On Covers Included
+ Zero Depreciation Cover
+ Return to Invoice Cover
+ Engine Secure Cover
+ Consumables Cover
+ Tyre Protection Cover
+ Roadside Assistance
+ Key Replacement Cover
+ Personal Accident Cover
+Premium Breakdown
+Particulars
+Amount
+Own Damage Premium
+■ 8,420
+Third Party Premium
+■ 8,120
+Add-On Premium
+■ 9,760
+Roadside Assistance
+■ 199
+Net Premium
+■ 26,499
+GST @18%
+■ 4,770
+Total Premium
+■ 31,269
+Benefits Included
+ Cashless claims at authorized garages
+ 24x7 emergency roadside support
+ Fast-track claim approvals
+ Coverage against theft, fire & accidental damages
+ Nationwide garage support network
+Advisor Details
+Agency Name: Nicsan Insurance Marketing LLP
+Contact Number: +91 9686449289
+Disclaimer
+
+Insurance is the subject matter of solicitation. Terms and conditions apply as per policy wording issued by the
+insurer. Please read all policy documents carefully before purchase.
+
